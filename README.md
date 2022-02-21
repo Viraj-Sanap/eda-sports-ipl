@@ -1,5 +1,5 @@
 # eda-sports-ipl
-## Explorative Data Analysis - Sports (Level: Advanced)
+## Exploratory Data Analysis - Sports (Level: Advanced)
 > The Sparks Foundation: Graduate Rotational Internship Program - Data Science and Business Analytics (Task 5)
 ##### **Batch:** February 2022
 ##### **Author:** Viraj Rajendra Sanap
